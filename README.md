@@ -6,3 +6,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 Link
 https://nextjs-dashboard-git-main-boris-projects-04708a27.vercel.app/
+
+http://localhost:3000/seed
+
+http://localhost:3000/query
+
