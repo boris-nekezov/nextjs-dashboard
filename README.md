@@ -32,3 +32,6 @@ https://nextjs.org/learn/dashboard-app/fetching-data
 https://nextjs.org/learn/dashboard-app/fetching-data#using-server-components-to-fetch-data
 
 Server Components support promises, providing a simpler solution for asynchronous tasks like data fetching. You can use async/await syntax without reaching out for useEffect, useState or data fetching libraries.
+
+// todo
+https://nextjs.org/learn/dashboard-app/fetching-data#using-sql
